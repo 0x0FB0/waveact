@@ -14,8 +14,8 @@ This project consists out of Garmin VivoActive 4S app together with golang recei
 
 ##### Examples
 
-![synthesis](waveact/resources/drawables/screen2.png)
-![keyboard](waveact/resources/drawables/screen3.png)
+![synthesis](waveact/resources/drawables/screen2.PNG)
+![keyboard](waveact/resources/drawables/screen3.PNG)
 ![watchface](waveact/resources/drawables/screen.png)
 
 ##### Side notes
