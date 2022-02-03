@@ -14,8 +14,9 @@ This project consists out of Garmin VivoActive 4S app together with golang recei
 
 ##### Examples
 
-![keyboard](waveact/resources/drawables/screen2.png)
-![keyboard](waveact/resources/drawables/screen3.png) ![keyboard](waveact/resources/drawables/screen.png)
+![synthesis](waveact/resources/drawables/screen2.png)
+![keyboard](waveact/resources/drawables/screen3.png)
+![watchface](waveact/resources/drawables/screen.png)
 
 ##### Side notes
 Depending on the android version of the garmin watch it might require a valid TLS certificate for receiver server.
